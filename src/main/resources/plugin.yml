@@ -1,0 +1,5 @@
+main: dev.themasteredpanda.mmobmoney.MMobMoney
+version: 1.0
+author: TheMasteredPanda
+name: MMobMoney
+depend: [Vault]

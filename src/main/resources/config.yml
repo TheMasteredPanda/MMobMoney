@@ -1,0 +1,5 @@
+
+mobmoney:
+  prefix: "&8[&cMobMoney&8]"
+  mobs:
+    zombie: 3
